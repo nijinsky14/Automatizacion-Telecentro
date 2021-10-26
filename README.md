@@ -2,7 +2,7 @@
 2 casos de Pruebas automatizando la pagina de Telecentro
 
 
-//////// Pasos Caso 2 ////////
+//////// Pasos Caso 1 ////////
 1) Ir al Planes Full
 2) Tomar el precio del pack
 3) Hacer click en VER PROMO
